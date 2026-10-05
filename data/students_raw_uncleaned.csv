@@ -1,0 +1,605 @@
+student_id,student_name,gender,department,semester,subject,attendance,internal_marks,assignment_marks,practical_marks,final_marks
+ST1001,Rachit Panchal,Female,Information Technology,Semester 5,Mathematics,74.5,11.0,4,9.0,23.0
+ST1001,Rachit Panchal,Female,Information Technology,Semester 5,Python Programming,79.3,12.0,6,14.0,34.0
+ST1001,Rachit Panchal,Female,Information Technology,Semester 5,Database Management,80.9,10.0,6,12.0,30.0
+ST1001,Rachit Panchal,Female,Information Technology,Semester 5,Computer Networks,77.6,12.0,6,12.0,26.0
+ST1001,Rachit Panchal,Female,Information Technology,Semester 5,Operating Systems,76.7,10.0,6,11.0,28.0
+ST1002,Siddharth Mehta,Male,Data Science,Semester 5,Mathematics,89.0,,7,18.0,43.0
+ST1002,Siddharth Mehta,Male,Data Science,Semester 5,Python Programming,91.2,18.0,9,20.0,44.0
+ST1002,Siddharth Mehta,Male,Data Science,Semester 5,Database Management,86.5,18.0,9,18.0,48.0
+ST1002,Siddharth Mehta,Male,Data Science,Semester 5,Computer Networks,83.2,16.0,9,15.0,41.0
+ST1002,Siddharth Mehta,Male,Data Science,Semester 5,Operating Systems,86.7,18.0,9,20.0,42.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Mathematics,58.7,5.0,3,6.0,13.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Python Programming,62.8,6.0,3,6.0,18.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Database Management,61.5,5.0,3,6.0,12.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Computer Networks,65.1,7.0,3,6.0,14.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Operating Systems,65.3,6.0,3,7.0,14.0
+ST1004,Aarav Desai,Female,Computer Engineering,Semester 5,Mathematics,91.8,17.0,7,17.0,37.0
+ST1004,Aarav Desai,Female,Computer Engineering,Semester 5,Python Programming,86.4,15.0,9,15.0,39.0
+ST1004,Aarav Desai,Female,Computer Engineering,Semester 5,Database Management,85.3,12.0,6,16.0,41.0
+ST1004,Aarav Desai,Female,Computer Engineering,Semester 5,Computer Networks,91.1,,7,13.0,41.0
+ST1004,Aarav Desai,Female,Computer Engineering,Semester 5,Operating Systems,92.2,16.0,8,13.0,38.0
+ST1005,Yash Iyer,Female,Information Technology,Semester 5,Mathematics,74.5,10.0,6,11.0,24.0
+ST1005,Yash Iyer,Female,Information Technology,Semester 5,Python Programming,77.6,15.0,7,13.0,36.0
+ST1005,Yash Iyer,Female,Information Technology,Semester 5,Database Management,77.2,13.0,7,12.0,36.0
+ST1005,Yash Iyer,Female,Information Technology,Semester 5,Computer Networks,76.7,12.0,8,13.0,31.0
+ST1005,Yash Iyer,Female,Information Technology,Semester 5,Operating Systems,75.0,12.0,6,11.0,29.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Mathematics,88.5,16.0,8,16.0,41.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Python Programming,80.5,13.0,8,16.0,36.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Database Management,87.0,12.0,7,15.0,40.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Computer Networks,82.0,15.0,8,16.0,40.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Operating Systems,79.2,17.0,7,16.0,41.0
+ST1007,Manish Verma,Female,Information Technology,Semester 5,Mathematics,67.5,7.0,4,10.0,22.0
+ST1007,Manish Verma,Female,Information Technology,Semester 5,Python Programming,65.9,7.0,6,8.0,25.0
+ST1007,Manish Verma,Female,Information Technology,Semester 5,Database Management,64.0,10.0,4,9.0,21.0
+ST1007,Manish Verma,Female,Information Technology,Semester 5,Computer Networks,68.0,8.0,5,,19.0
+ST1007,Manish Verma,Female,Information Technology,Semester 5,Operating Systems,65.7,12.0,5,10.0,25.0
+ST1008,Bhavya Iyer,Male,Computer Engineering,Semester 5,Mathematics,92.9,19.0,10,19.0,46.0
+ST1008,Bhavya Iyer,Male,Computer Engineering,Semester 5,Python Programming,87.2,19.0,10,19.0,50.0
+ST1008,Bhavya Iyer,Male,Computer Engineering,Semester 5,Database Management,87.5,17.0,10,20.0,50.0
+ST1008,Bhavya Iyer,Male,Computer Engineering,Semester 5,Computer Networks,80.5,19.0,10,18.0,50.0
+ST1008,Bhavya Iyer,Male,Computer Engineering,Semester 5,Operating Systems,85.1,20.0,9,18.0,48.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Mathematics,78.9,15.0,9,15.0,37.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Python Programming,80.3,18.0,9,15.0,47.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Database Management,74.8,15.0,8,16.0,40.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Computer Networks,78.8,17.0,8,18.0,44.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Operating Systems,74.6,16.0,8,17.0,38.0
+ST1010,Simran Chauhan,Female,Information Technology,Semester 5,Mathematics,76.3,12.0,5,10.0,35.0
+ST1010,Simran Chauhan,Female,Information Technology,Semester 5,Python Programming,73.9,10.0,6,11.0,36.0
+ST1010,Simran Chauhan,Female,Information Technology,Semester 5,Database Management,78.5,15.0,7,12.0,24.0
+ST1010,Simran Chauhan,Female,Information Technology,Semester 5,Computer Networks,81.7,10.0,7,15.0,34.0
+ST1010,Simran Chauhan,Female,Information Technology,Semester 5,Operating Systems,77.4,14.0,7,14.0,34.0
+ST1011,Diya Joshi,Male,Information Technology,Semester 5,Mathematics,89.5,17.0,7,17.0,40.0
+ST1011,Diya Joshi,Male,Information Technology,Semester 5,Python Programming,86.9,20.0,10,17.0,45.0
+ST1011,Diya Joshi,Male,Information Technology,Semester 5,Database Management,92.1,,10,17.0,46.0
+ST1011,Diya Joshi,Male,Information Technology,Semester 5,Computer Networks,86.4,18.0,8,18.0,45.0
+ST1011,Diya Joshi,Male,Information Technology,Semester 5,Operating Systems,91.1,20.0,10,18.0,48.0
+ST1012,Nikhil Khan,Female,Computer Engineering,Semester 5,Mathematics,86.5,17.0,8,16.0,38.0
+ST1012,Nikhil Khan,Female,Computer Engineering,Semester 5,Python Programming,89.5,16.0,8,18.0,42.0
+ST1012,Nikhil Khan,Female,Computer Engineering,Semester 5,Database Management,88.2,18.0,8,20.0,40.0
+ST1012,Nikhil Khan,Female,Computer Engineering,Semester 5,Computer Networks,85.9,18.0,9,18.0,45.0
+ST1012,Nikhil Khan,Female,Computer Engineering,Semester 5,Operating Systems,84.7,20.0,9,17.0,45.0
+ST1013,Priya Dave,Female,Information Technology,Semester 5,Mathematics,92.5,15.0,8,13.0,35.0
+ST1013,Priya Dave,Female,Information Technology,Semester 5,Python Programming,90.2,15.0,7,14.0,36.0
+ST1013,Priya Dave,Female,Information Technology,Semester 5,Database Management,83.0,14.0,8,13.0,38.0
+ST1013,Priya Dave,Female,Information Technology,Semester 5,Computer Networks,88.2,13.0,7,12.0,37.0
+ST1013,Priya Dave,Female,Information Technology,Semester 5,Operating Systems,87.1,14.0,8,14.0,37.0
+ST1014,Aditya Kulkarni,Female,Computer Engineering,Semester 5,Mathematics,67.9,12.0,7,12.0,31.0
+ST1014,Aditya Kulkarni,Female,Computer Engineering,Semester 5,Python Programming,73.3,16.0,7,15.0,43.0
+ST1014,Aditya Kulkarni,Female,Computer Engineering,Semester 5,Database Management,70.6,17.0,8,16.0,41.0
+ST1014,Aditya Kulkarni,Female,Computer Engineering,Semester 5,Computer Networks,69.8,16.0,7,13.0,31.0
+ST1014,Aditya Kulkarni,Female,Computer Engineering,Semester 5,Operating Systems,71.5,11.0,7,16.0,33.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Mathematics,74.4,13.0,7,13.0,33.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Python Programming,73.1,15.0,7,13.0,36.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Database Management,70.1,14.0,8,14.0,34.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Computer Networks,74.3,15.0,7,13.0,33.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Operating Systems,71.5,13.0,7,14.0,33.0
+ST1016,Neha Joshi,Male,Computer Engineering,Semester 5,Mathematics,70.0,5.0,3,6.0,12.0
+ST1016,Neha Joshi,Male,Computer Engineering,Semester 5,Python Programming,70.3,10.0,4,11.0,23.0
+ST1016,Neha Joshi,Male,Computer Engineering,Semester 5,Database Management,68.0,6.0,3,7.0,18.0
+ST1016,Neha Joshi,Male,Computer Engineering,Semester 5,Computer Networks,68.8,9.0,4,6.0,12.0
+ST1016,Neha Joshi,Male,Computer Engineering,Semester 5,Operating Systems,71.1,6.0,3,6.0,17.0
+ST1017,Priya Mistry,Male,Data Science,Semester 5,Mathematics,82.8,7.0,5,11.0,21.0
+ST1017,Priya Mistry,Male,Data Science,Semester 5,Python Programming,81.4,13.0,6,11.0,33.0
+ST1017,Priya Mistry,Male,Data Science,Semester 5,Database Management,80.5,10.0,5,10.0,28.0
+ST1017,Priya Mistry,Male,Data Science,Semester 5,Computer Networks,85.2,8.0,6,10.0,23.0
+ST1017,Priya Mistry,Male,Data Science,Semester 5,Operating Systems,83.5,13.0,6,10.0,34.0
+ST1018,Kunal Chauhan,Male,Data Science,Semester 5,Mathematics,96.2,18.0,10,19.0,43.0
+ST1018,Kunal Chauhan,Male,Data Science,Semester 5,Python Programming,95.8,18.0,10,18.0,45.0
+ST1018,Kunal Chauhan,Male,Data Science,Semester 5,Database Management,98.2,15.0,9,16.0,38.0
+ST1018,Kunal Chauhan,Male,Data Science,Semester 5,Computer Networks,99.0,19.0,10,17.0,
+ST1018,Kunal Chauhan,Male,Data Science,Semester 5,Operating Systems,100.0,17.0,10,18.0,45.0
+ST1019,Aarav Panchal,Male,Computer Engineering,Semester 5,Mathematics,96.6,16.0,7,15.0,42.0
+ST1019,Aarav Panchal,Male,Computer Engineering,Semester 5,Python Programming,92.5,18.0,8,16.0,40.0
+ST1019,Aarav Panchal,Male,Computer Engineering,Semester 5,Database Management,86.3,16.0,9,17.0,45.0
+ST1019,Aarav Panchal,Male,Computer Engineering,Semester 5,Computer Networks,93.2,16.0,8,17.0,41.0
+ST1019,Aarav Panchal,Male,Computer Engineering,Semester 5,Operating Systems,95.2,17.0,9,18.0,42.0
+ST1020,Payal Verma,Male,Data Science,Semester 5,Mathematics,81.1,15.0,7,16.0,42.0
+ST1020,Payal Verma,Male,Data Science,Semester 5,Python Programming,84.4,19.0,9,20.0,44.0
+ST1020,Payal Verma,Male,Data Science,Semester 5,Database Management,79.9,17.0,9,17.0,41.0
+ST1020,Payal Verma,Male,Data Science,Semester 5,Computer Networks,81.2,14.0,7,16.0,44.0
+ST1020,Payal Verma,Male,Data Science,Semester 5,Operating Systems,85.3,16.0,8,14.0,37.0
+ST1021,Ishaan Reddy,Female,Information Technology,Semester 5,Mathematics,86.9,14.0,6,14.0,30.0
+ST1021,Ishaan Reddy,Female,Information Technology,Semester 5,Python Programming,85.8,15.0,9,15.0,40.0
+ST1021,Ishaan Reddy,Female,Information Technology,Semester 5,Database Management,89.2,12.0,6,15.0,32.0
+ST1021,Ishaan Reddy,Female,Information Technology,Semester 5,Computer Networks,93.3,14.0,8,16.0,41.0
+ST1021,Ishaan Reddy,Female,Information Technology,Semester 5,Operating Systems,89.9,16.0,8,15.0,36.0
+ST1022,Disha Vyas,Female,Data Science,Semester 5,Mathematics,82.8,12.0,7,14.0,32.0
+ST1022,Disha Vyas,Female,Data Science,Semester 5,Python Programming,86.5,13.0,6,11.0,33.0
+ST1022,Disha Vyas,Female,Data Science,Semester 5,Database Management,82.5,16.0,7,17.0,41.0
+ST1022,Disha Vyas,Female,Data Science,Semester 5,Computer Networks,84.3,12.0,6,14.0,39.0
+ST1022,Disha Vyas,Female,Data Science,Semester 5,Operating Systems,86.7,12.0,7,11.0,34.0
+ST1023,Bhavya Kapoor,Male,Information Technology,Semester 5,Mathematics,89.7,,8,15.0,35.0
+ST1023,Bhavya Kapoor,Male,Information Technology,Semester 5,Python Programming,82.9,19.0,10,16.0,40.0
+ST1023,Bhavya Kapoor,Male,Information Technology,Semester 5,Database Management,91.3,16.0,9,17.0,40.0
+ST1023,Bhavya Kapoor,Male,Information Technology,Semester 5,Computer Networks,89.6,15.0,8,16.0,42.0
+ST1023,Bhavya Kapoor,Male,Information Technology,Semester 5,Operating Systems,88.1,17.0,9,17.0,37.0
+ST1024,Payal Trivedi,Male,Information Technology,Semester 5,Mathematics,84.5,14.0,7,15.0,31.0
+ST1024,Payal Trivedi,Male,Information Technology,Semester 5,Python Programming,81.0,14.0,8,14.0,41.0
+ST1024,Payal Trivedi,Male,Information Technology,Semester 5,Database Management,82.2,15.0,6,13.0,34.0
+ST1024,Payal Trivedi,Male,Information Technology,Semester 5,Computer Networks,85.2,14.0,7,15.0,35.0
+ST1024,Payal Trivedi,Male,Information Technology,Semester 5,Operating Systems,81.4,14.0,6,10.0,36.0
+ST1025,Arjun Trivedi,Female,Data Science,Semester 5,Mathematics,86.5,9.0,6,13.0,26.0
+ST1025,Arjun Trivedi,Female,Data Science,Semester 5,Python Programming,82.4,15.0,6,12.0,31.0
+ST1025,Arjun Trivedi,Female,Data Science,Semester 5,Database Management,81.8,15.0,7,13.0,32.0
+ST1025,Arjun Trivedi,Female,Data Science,Semester 5,Computer Networks,80.3,13.0,6,17.0,34.0
+ST1025,Arjun Trivedi,Female,Data Science,Semester 5,Operating Systems,82.3,14.0,6,11.0,34.0
+ST1026,Payal Iyer,Male,Computer Engineering,Semester 5,Mathematics,69.6,10.0,4,10.0,23.0
+ST1026,Payal Iyer,Male,Computer Engineering,Semester 5,Python Programming,73.4,8.0,4,11.0,22.0
+ST1026,Payal Iyer,Male,Computer Engineering,Semester 5,Database Management,70.3,8.0,5,6.0,19.0
+ST1026,Payal Iyer,Male,Computer Engineering,Semester 5,Computer Networks,74.8,9.0,3,9.0,20.0
+ST1026,Payal Iyer,Male,Computer Engineering,Semester 5,Operating Systems,73.8,12.0,5,10.0,24.0
+ST1027,Anushka Mehta,Female,Computer Engineering,Semester 5,Mathematics,83.0,16.0,8,18.0,38.0
+ST1027,Anushka Mehta,Female,Computer Engineering,Semester 5,Python Programming,86.7,18.0,8,18.0,50.0
+ST1027,Anushka Mehta,Female,Computer Engineering,Semester 5,Database Management,83.8,16.0,9,17.0,40.0
+ST1027,Anushka Mehta,Female,Computer Engineering,Semester 5,Computer Networks,83.0,15.0,9,16.0,44.0
+ST1027,Anushka Mehta,Female,Computer Engineering,Semester 5,Operating Systems,87.7,17.0,9,18.0,42.0
+ST1028,Vikram Dave,Female,Information Technology,Semester 5,Mathematics,78.3,11.0,4,10.0,25.0
+ST1028,Vikram Dave,Female,Information Technology,Semester 5,Python Programming,76.9,12.0,7,11.0,31.0
+ST1028,Vikram Dave,Female,Information Technology,Semester 5,Database Management,82.3,10.0,6,11.0,28.0
+ST1028,Vikram Dave,Female,Information Technology,Semester 5,Computer Networks,78.7,13.0,6,11.0,31.0
+ST1028,Vikram Dave,Female,Information Technology,Semester 5,Operating Systems,82.2,10.0,7,11.0,22.0
+ST1029,Priya Malhotra,Female,Computer Engineering,Semester 5,Mathematics,93.6,16.0,9,17.0,44.0
+ST1029,Priya Malhotra,Female,Computer Engineering,Semester 5,Python Programming,90.4,18.0,10,19.0,44.0
+ST1029,Priya Malhotra,Female,Computer Engineering,Semester 5,Database Management,94.2,19.0,9,20.0,43.0
+ST1029,Priya Malhotra,Female,Computer Engineering,Semester 5,Computer Networks,90.6,17.0,9,16.0,41.0
+ST1029,Priya Malhotra,Female,Computer Engineering,Semester 5,Operating Systems,88.8,20.0,9,18.0,46.0
+ST1030,Kavya Chauhan,Female,Information Technology,Semester 5,Mathematics,90.9,15.0,8,16.0,38.0
+ST1030,Kavya Chauhan,Female,Information Technology,Semester 5,Python Programming,90.5,16.0,7,13.0,39.0
+ST1030,Kavya Chauhan,Female,Information Technology,Semester 5,Database Management,91.4,18.0,10,18.0,47.0
+ST1030,Kavya Chauhan,Female,Information Technology,Semester 5,Computer Networks,89.9,14.0,8,15.0,47.0
+ST1030,Kavya Chauhan,Female,Information Technology,Semester 5,Operating Systems,87.6,17.0,8,19.0,39.0
+ST1031,Simran Iyer,Male,Computer Engineering,Semester 5,Mathematics,81.1,11.0,6,13.0,31.0
+ST1031,Simran Iyer,Male,Computer Engineering,Semester 5,Python Programming,78.9,14.0,6,15.0,35.0
+ST1031,Simran Iyer,Male,Computer Engineering,Semester 5,Database Management,77.0,13.0,7,16.0,30.0
+ST1031,Simran Iyer,Male,Computer Engineering,Semester 5,Computer Networks,80.9,15.0,7,13.0,34.0
+ST1031,Simran Iyer,Male,Computer Engineering,Semester 5,Operating Systems,78.6,15.0,9,15.0,36.0
+ST1032,Arjun Pandya,Male,Computer Engineering,Semester 5,Mathematics,94.2,15.0,9,18.0,38.0
+ST1032,Arjun Pandya,Male,Computer Engineering,Semester 5,Python Programming,100.0,20.0,10,20.0,48.0
+ST1032,Arjun Pandya,Male,Computer Engineering,Semester 5,Database Management,95.8,17.0,9,17.0,44.0
+ST1032,Arjun Pandya,Male,Computer Engineering,Semester 5,Computer Networks,98.2,18.0,10,20.0,45.0
+ST1032,Arjun Pandya,Male,Computer Engineering,Semester 5,Operating Systems,100.0,20.0,10,20.0,50.0
+ST1033,Nikhil Panchal,Male,Information Technology,Semester 5,Mathematics,79.8,16.0,7,16.0,40.0
+ST1033,Nikhil Panchal,Male,Information Technology,Semester 5,Python Programming,78.6,15.0,8,18.0,45.0
+ST1033,Nikhil Panchal,Male,Information Technology,Semester 5,Database Management,76.5,17.0,10,19.0,44.0
+ST1033,Nikhil Panchal,Male,Information Technology,Semester 5,Computer Networks,83.5,17.0,9,15.0,45.0
+ST1033,Nikhil Panchal,Male,Information Technology,Semester 5,Operating Systems,78.5,18.0,9,18.0,46.0
+ST1034,Harsh Desai,Male,Computer Engineering,Semester 5,Mathematics,78.1,16.0,10,19.0,42.0
+ST1034,Harsh Desai,Male,Computer Engineering,Semester 5,Python Programming,81.5,17.0,9,19.0,48.0
+ST1034,Harsh Desai,Male,Computer Engineering,Semester 5,Database Management,86.0,18.0,8,17.0,47.0
+ST1034,Harsh Desai,Male,Computer Engineering,Semester 5,Computer Networks,86.5,16.0,8,17.0,40.0
+ST1034,Harsh Desai,Male,Computer Engineering,Semester 5,Operating Systems,83.6,18.0,9,18.0,43.0
+ST1035,Kavya Verma,Female,Information Technology,Semester 5,Mathematics,95.0,15.0,7,17.0,40.0
+ST1035,Kavya Verma,Female,Information Technology,Semester 5,Python Programming,94.6,17.0,10,18.0,43.0
+ST1035,Kavya Verma,Female,Information Technology,Semester 5,Database Management,96.4,14.0,7,15.0,43.0
+ST1035,Kavya Verma,Female,Information Technology,Semester 5,Computer Networks,100.0,17.0,7,16.0,39.0
+ST1035,Kavya Verma,Female,Information Technology,Semester 5,Operating Systems,93.7,15.0,6,17.0,37.0
+ST1036,Aarav Choudhury,Female,Computer Engineering,Semester 5,Mathematics,90.0,16.0,6,17.0,46.0
+ST1036,Aarav Choudhury,Female,Computer Engineering,Semester 5,Python Programming,94.3,16.0,8,16.0,47.0
+ST1036,Aarav Choudhury,Female,Computer Engineering,Semester 5,Database Management,85.6,17.0,9,16.0,42.0
+ST1036,Aarav Choudhury,Female,Computer Engineering,Semester 5,Computer Networks,88.4,16.0,8,16.0,41.0
+ST1036,Aarav Choudhury,Female,Computer Engineering,Semester 5,Operating Systems,89.3,17.0,7,18.0,40.0
+ST1037,Gaurav Patel,Male,Information Technology,Semester 5,Mathematics,86.7,16.0,5,18.0,38.0
+ST1037,Gaurav Patel,Male,Information Technology,Semester 5,Python Programming,88.9,16.0,8,17.0,41.0
+ST1037,Gaurav Patel,Male,Information Technology,Semester 5,Database Management,88.5,15.0,8,17.0,40.0
+ST1037,Gaurav Patel,Male,Information Technology,Semester 5,Computer Networks,80.9,16.0,8,15.0,42.0
+ST1037,Gaurav Patel,Male,Information Technology,Semester 5,Operating Systems,90.7,15.0,7,13.0,35.0
+ST1038,Aisha Reddy,Male,Information Technology,Semester 5,Mathematics,94.9,16.0,8,16.0,37.0
+ST1038,Aisha Reddy,Male,Information Technology,Semester 5,Python Programming,93.8,18.0,9,18.0,43.0
+ST1038,Aisha Reddy,Male,Information Technology,Semester 5,Database Management,95.4,15.0,8,15.0,38.0
+ST1038,Aisha Reddy,Male,Information Technology,Semester 5,Computer Networks,92.3,14.0,6,15.0,37.0
+ST1038,Aisha Reddy,Male,Information Technology,Semester 5,Operating Systems,90.7,17.0,7,15.0,38.0
+ST1039,Payal Vyas,Female,Information Technology,Semester 5,Mathematics,85.1,15.0,7,13.0,39.0
+ST1039,Payal Vyas,Female,Information Technology,Semester 5,Python Programming,84.3,16.0,9,14.0,30.0
+ST1039,Payal Vyas,Female,Information Technology,Semester 5,Database Management,87.9,18.0,9,16.0,45.0
+ST1039,Payal Vyas,Female,Information Technology,Semester 5,Computer Networks,85.0,16.0,9,19.0,39.0
+ST1039,Payal Vyas,Female,Information Technology,Semester 5,Operating Systems,86.1,13.0,7,15.0,36.0
+ST1040,Neha Trivedi,Male,Computer Engineering,Semester 5,Mathematics,76.2,12.0,5,11.0,25.0
+ST1040,Neha Trivedi,Male,Computer Engineering,Semester 5,Python Programming,76.2,12.0,6,13.0,29.0
+ST1040,Neha Trivedi,Male,Computer Engineering,Semester 5,Database Management,73.8,13.0,6,12.0,32.0
+ST1040,Neha Trivedi,Male,Computer Engineering,Semester 5,Computer Networks,75.5,12.0,6,11.0,23.0
+ST1040,Neha Trivedi,Male,Computer Engineering,Semester 5,Operating Systems,75.5,14.0,7,15.0,33.0
+ST1041,Aditya Chauhan,Female,Data Science,Semester 5,Mathematics,74.4,10.0,5,11.0,24.0
+ST1041,Aditya Chauhan,Female,Data Science,Semester 5,Python Programming,72.8,12.0,5,9.0,28.0
+ST1041,Aditya Chauhan,Female,Data Science,Semester 5,Database Management,70.8,11.0,5,13.0,28.0
+ST1041,Aditya Chauhan,Female,Data Science,Semester 5,Computer Networks,74.7,10.0,7,11.0,31.0
+ST1041,Aditya Chauhan,Female,Data Science,Semester 5,Operating Systems,71.2,11.0,5,9.0,22.0
+ST1042,Disha Reddy,Male,Computer Engineering,Semester 5,Mathematics,93.3,16.0,6,15.0,34.0
+ST1042,Disha Reddy,Male,Computer Engineering,Semester 5,Python Programming,92.0,16.0,8,15.0,42.0
+ST1042,Disha Reddy,Male,Computer Engineering,Semester 5,Database Management,89.2,14.0,6,15.0,46.0
+ST1042,Disha Reddy,Male,Computer Engineering,Semester 5,Computer Networks,92.5,15.0,8,16.0,35.0
+ST1042,Disha Reddy,Male,Computer Engineering,Semester 5,Operating Systems,93.3,17.0,8,16.0,42.0
+ST1043,Disha Nair,Male,Information Technology,Semester 5,Mathematics,89.1,17.0,9,20.0,41.0
+ST1043,Disha Nair,Male,Information Technology,Semester 5,Python Programming,83.9,20.0,10,20.0,48.0
+ST1043,Disha Nair,Male,Information Technology,Semester 5,Database Management,91.3,17.0,9,16.0,44.0
+ST1043,Disha Nair,Male,Information Technology,Semester 5,Computer Networks,91.8,19.0,8,18.0,46.0
+ST1043,Disha Nair,Male,Information Technology,Semester 5,Operating Systems,86.8,20.0,9,20.0,50.0
+ST1044,Gaurav Choudhury,Female,Data Science,Semester 5,Mathematics,83.1,14.0,7,14.0,38.0
+ST1044,Gaurav Choudhury,Female,Data Science,Semester 5,Python Programming,81.4,16.0,8,17.0,38.0
+ST1044,Gaurav Choudhury,Female,Data Science,Semester 5,Database Management,85.4,14.0,9,14.0,35.0
+ST1044,Gaurav Choudhury,Female,Data Science,Semester 5,Computer Networks,79.3,16.0,6,16.0,32.0
+ST1044,Gaurav Choudhury,Female,Data Science,Semester 5,Operating Systems,79.5,15.0,6,15.0,43.0
+ST1045,Rohan Mehta,Female,Information Technology,Semester 5,Mathematics,76.9,11.0,6,12.0,28.0
+ST1045,Rohan Mehta,Female,Information Technology,Semester 5,Python Programming,81.5,15.0,8,13.0,34.0
+ST1045,Rohan Mehta,Female,Information Technology,Semester 5,Database Management,81.5,15.0,7,14.0,31.0
+ST1045,Rohan Mehta,Female,Information Technology,Semester 5,Computer Networks,81.8,13.0,6,14.0,32.0
+ST1045,Rohan Mehta,Female,Information Technology,Semester 5,Operating Systems,80.1,14.0,7,14.0,38.0
+ST1046,Kunal Joshi,Male,Computer Engineering,Semester 5,Mathematics,90.7,19.0,10,16.0,37.0
+ST1046,Kunal Joshi,Male,Computer Engineering,Semester 5,Python Programming,93.7,20.0,8,20.0,43.0
+ST1046,Kunal Joshi,Male,Computer Engineering,Semester 5,Database Management,93.0,18.0,9,20.0,47.0
+ST1046,Kunal Joshi,Male,Computer Engineering,Semester 5,Computer Networks,92.7,18.0,10,20.0,46.0
+ST1046,Kunal Joshi,Male,Computer Engineering,Semester 5,Operating Systems,87.9,19.0,9,20.0,41.0
+ST1047,Rahul Pandya,Female,Data Science,Semester 5,Mathematics,84.8,12.0,6,11.0,21.0
+ST1047,Rahul Pandya,Female,Data Science,Semester 5,Python Programming,85.3,15.0,8,13.0,37.0
+ST1047,Rahul Pandya,Female,Data Science,Semester 5,Database Management,87.8,12.0,6,12.0,31.0
+ST1047,Rahul Pandya,Female,Data Science,Semester 5,Computer Networks,83.6,12.0,5,11.0,33.0
+ST1047,Rahul Pandya,Female,Data Science,Semester 5,Operating Systems,81.9,14.0,5,13.0,37.0
+ST1048,Rachit Mehta,Male,Information Technology,Semester 5,Mathematics,78.0,10.0,6,9.0,23.0
+ST1048,Rachit Mehta,Male,Information Technology,Semester 5,Python Programming,84.1,14.0,7,12.0,30.0
+ST1048,Rachit Mehta,Male,Information Technology,Semester 5,Database Management,81.8,13.0,6,10.0,32.0
+ST1048,Rachit Mehta,Male,Information Technology,Semester 5,Computer Networks,78.0,11.0,7,14.0,28.0
+ST1048,Rachit Mehta,Male,Information Technology,Semester 5,Operating Systems,80.0,13.0,5,14.0,29.0
+ST1049,Rachit Patel,Female,Computer Engineering,Semester 5,Mathematics,99.2,20.0,10,19.0,47.0
+ST1049,Rachit Patel,Female,Computer Engineering,Semester 5,Python Programming,95.2,20.0,10,20.0,49.0
+ST1049,Rachit Patel,Female,Computer Engineering,Semester 5,Database Management,99.7,19.0,10,20.0,47.0
+ST1049,Rachit Patel,Female,Computer Engineering,Semester 5,Computer Networks,97.8,18.0,10,19.0,48.0
+ST1049,Rachit Patel,Female,Computer Engineering,Semester 5,Operating Systems,98.1,19.0,10,20.0,50.0
+ST1050,Nikhil Bhatt,Male,Data Science,Semester 5,Mathematics,77.2,10.0,4,8.0,25.0
+ST1050,Nikhil Bhatt,Male,Data Science,Semester 5,Python Programming,77.5,14.0,7,12.0,37.0
+ST1050,Nikhil Bhatt,Male,Data Science,Semester 5,Database Management,79.2,12.0,4,12.0,26.0
+ST1050,Nikhil Bhatt,Male,Data Science,Semester 5,Computer Networks,75.1,12.0,5,12.0,24.0
+ST1050,Nikhil Bhatt,Male,Data Science,Semester 5,Operating Systems,74.2,12.0,5,10.0,27.0
+ST1051,Diya Iyer,Male,Information Technology,Semester 5,Mathematics,96.7,17.0,8,14.0,38.0
+ST1051,Diya Iyer,Male,Information Technology,Semester 5,Python Programming,96.1,14.0,8,15.0,39.0
+ST1051,Diya Iyer,Male,Information Technology,Semester 5,Database Management,93.5,14.0,8,17.0,33.0
+ST1051,Diya Iyer,Male,Information Technology,Semester 5,Computer Networks,93.1,13.0,7,12.0,32.0
+ST1051,Diya Iyer,Male,Information Technology,Semester 5,Operating Systems,92.9,16.0,7,16.0,37.0
+ST1052,Sneha Khan,Male,Computer Engineering,Semester 5,Mathematics,91.6,20.0,8,20.0,50.0
+ST1052,Sneha Khan,Male,Computer Engineering,Semester 5,Python Programming,89.4,20.0,9,18.0,50.0
+ST1052,Sneha Khan,Male,Computer Engineering,Semester 5,Database Management,93.0,20.0,10,18.0,50.0
+ST1052,Sneha Khan,Male,Computer Engineering,Semester 5,Computer Networks,95.2,18.0,8,19.0,47.0
+ST1052,Sneha Khan,Male,Computer Engineering,Semester 5,Operating Systems,92.1,19.0,10,18.0,48.0
+ST1053,Varun Reddy,Male,Data Science,Semester 5,Mathematics,76.5,10.0,5,12.0,25.0
+ST1053,Varun Reddy,Male,Data Science,Semester 5,Python Programming,72.9,15.0,5,14.0,31.0
+ST1053,Varun Reddy,Male,Data Science,Semester 5,Database Management,77.6,11.0,5,11.0,26.0
+ST1053,Varun Reddy,Male,Data Science,Semester 5,Computer Networks,74.8,10.0,6,13.0,25.0
+ST1053,Varun Reddy,Male,Data Science,Semester 5,Operating Systems,77.5,12.0,6,13.0,31.0
+ST1054,Rahul Kapoor,Female,Computer Engineering,Semester 5,Mathematics,75.5,13.0,5,12.0,32.0
+ST1054,Rahul Kapoor,Female,Computer Engineering,Semester 5,Python Programming,78.1,16.0,6,12.0,35.0
+ST1054,Rahul Kapoor,Female,Computer Engineering,Semester 5,Database Management,80.4,14.0,5,13.0,29.0
+ST1054,Rahul Kapoor,Female,Computer Engineering,Semester 5,Computer Networks,82.9,13.0,6,15.0,33.0
+ST1054,Rahul Kapoor,Female,Computer Engineering,Semester 5,Operating Systems,78.5,10.0,6,11.0,29.0
+ST1055,Karan Patel,Male,Information Technology,Semester 5,Mathematics,93.4,14.0,6,12.0,34.0
+ST1055,Karan Patel,Male,Information Technology,Semester 5,Python Programming,90.7,16.0,7,15.0,35.0
+ST1055,Karan Patel,Male,Information Technology,Semester 5,Database Management,87.7,18.0,7,15.0,43.0
+ST1055,Karan Patel,Male,Information Technology,Semester 5,Computer Networks,91.2,14.0,7,15.0,36.0
+ST1055,Karan Patel,Male,Information Technology,Semester 5,Operating Systems,84.3,13.0,7,17.0,36.0
+ST1056,Sanya Dave,Female,Computer Engineering,Semester 5,Mathematics,92.2,19.0,9,19.0,50.0
+ST1056,Sanya Dave,Female,Computer Engineering,Semester 5,Python Programming,90.2,18.0,10,18.0,47.0
+ST1056,Sanya Dave,Female,Computer Engineering,Semester 5,Database Management,92.3,20.0,9,19.0,46.0
+ST1056,Sanya Dave,Female,Computer Engineering,Semester 5,Computer Networks,89.9,18.0,10,18.0,41.0
+ST1056,Sanya Dave,Female,Computer Engineering,Semester 5,Operating Systems,91.6,20.0,8,17.0,50.0
+ST1057,Nikhil Sharma,Male,Computer Engineering,Semester 5,Mathematics,74.2,8.0,3,7.0,19.0
+ST1057,Nikhil Sharma,Male,Computer Engineering,Semester 5,Python Programming,75.5,9.0,4,9.0,19.0
+ST1057,Nikhil Sharma,Male,Computer Engineering,Semester 5,Database Management,72.2,9.0,5,8.0,20.0
+ST1057,Nikhil Sharma,Male,Computer Engineering,Semester 5,Computer Networks,69.6,8.0,6,7.0,24.0
+ST1057,Nikhil Sharma,Male,Computer Engineering,Semester 5,Operating Systems,75.7,11.0,5,9.0,22.0
+ST1058,Rohan Malhotra,Male,Computer Engineering,Semester 5,Mathematics,86.3,12.0,5,12.0,29.0
+ST1058,Rohan Malhotra,Male,Computer Engineering,Semester 5,Python Programming,83.0,13.0,7,14.0,37.0
+ST1058,Rohan Malhotra,Male,Computer Engineering,Semester 5,Database Management,77.6,12.0,7,11.0,24.0
+ST1058,Rohan Malhotra,Male,Computer Engineering,Semester 5,Computer Networks,84.7,10.0,5,11.0,27.0
+ST1058,Rohan Malhotra,Male,Computer Engineering,Semester 5,Operating Systems,77.7,14.0,7,11.0,31.0
+ST1059,Kunal Sharma,Male,Information Technology,Semester 5,Mathematics,97.8,19.0,9,18.0,47.0
+ST1059,Kunal Sharma,Male,Information Technology,Semester 5,Python Programming,100.0,20.0,10,20.0,50.0
+ST1059,Kunal Sharma,Male,Information Technology,Semester 5,Database Management,95.6,20.0,9,19.0,50.0
+ST1059,Kunal Sharma,Male,Information Technology,Semester 5,Computer Networks,99.0,19.0,10,20.0,47.0
+ST1059,Kunal Sharma,Male,Information Technology,Semester 5,Operating Systems,100.0,18.0,10,18.0,42.0
+ST1060,Akash Kulkarni,Male,Information Technology,Semester 5,Mathematics,73.4,8.0,4,7.0,22.0
+ST1060,Akash Kulkarni,Male,Information Technology,Semester 5,Python Programming,77.3,12.0,6,12.0,24.0
+ST1060,Akash Kulkarni,Male,Information Technology,Semester 5,Database Management,77.1,11.0,5,10.0,21.0
+ST1060,Akash Kulkarni,Male,Information Technology,Semester 5,Computer Networks,72.8,9.0,6,9.0,29.0
+ST1060,Akash Kulkarni,Male,Information Technology,Semester 5,Operating Systems,71.9,11.0,5,11.0,27.0
+ST1061,Yash Chauhan,Male,Information Technology,Semester 5,Mathematics,68.9,9.0,6,9.0,28.0
+ST1061,Yash Chauhan,Male,Information Technology,Semester 5,Python Programming,69.5,14.0,7,15.0,36.0
+ST1061,Yash Chauhan,Male,Information Technology,Semester 5,Database Management,71.0,12.0,7,14.0,31.0
+ST1061,Yash Chauhan,Male,Information Technology,Semester 5,Computer Networks,69.6,12.0,7,14.0,35.0
+ST1061,Yash Chauhan,Male,Information Technology,Semester 5,Operating Systems,66.9,15.0,7,14.0,39.0
+ST1062,Ishaan Gupta,Male,Information Technology,Semester 5,Mathematics,86.3,16.0,8,15.0,36.0
+ST1062,Ishaan Gupta,Male,Information Technology,Semester 5,Python Programming,87.6,17.0,8,14.0,40.0
+ST1062,Ishaan Gupta,Male,Information Technology,Semester 5,Database Management,78.4,17.0,7,16.0,46.0
+ST1062,Ishaan Gupta,Male,Information Technology,Semester 5,Computer Networks,82.4,16.0,9,14.0,39.0
+ST1062,Ishaan Gupta,Male,Information Technology,Semester 5,Operating Systems,87.1,14.0,8,17.0,39.0
+ST1063,Bhavya Kapoor,Female,Computer Engineering,Semester 5,Mathematics,80.1,10.0,5,11.0,31.0
+ST1063,Bhavya Kapoor,Female,Computer Engineering,Semester 5,Python Programming,84.4,11.0,5,11.0,19.0
+ST1063,Bhavya Kapoor,Female,Computer Engineering,Semester 5,Database Management,81.6,9.0,5,10.0,31.0
+ST1063,Bhavya Kapoor,Female,Computer Engineering,Semester 5,Computer Networks,86.2,9.0,5,9.0,24.0
+ST1063,Bhavya Kapoor,Female,Computer Engineering,Semester 5,Operating Systems,80.4,9.0,5,8.0,25.0
+ST1064,Neha Trivedi,Male,Information Technology,Semester 5,Mathematics,90.6,19.0,9,19.0,44.0
+ST1064,Neha Trivedi,Male,Information Technology,Semester 5,Python Programming,91.7,18.0,9,17.0,46.0
+ST1064,Neha Trivedi,Male,Information Technology,Semester 5,Database Management,91.5,18.0,9,19.0,49.0
+ST1064,Neha Trivedi,Male,Information Technology,Semester 5,Computer Networks,90.6,16.0,8,17.0,41.0
+ST1064,Neha Trivedi,Male,Information Technology,Semester 5,Operating Systems,89.0,18.0,10,18.0,44.0
+ST1065,Pooja Khan,Female,Information Technology,Semester 5,Mathematics,73.8,12.0,7,11.0,33.0
+ST1065,Pooja Khan,Female,Information Technology,Semester 5,Python Programming,76.9,18.0,8,14.0,38.0
+ST1065,Pooja Khan,Female,Information Technology,Semester 5,Database Management,71.7,13.0,8,14.0,36.0
+ST1065,Pooja Khan,Female,Information Technology,Semester 5,Computer Networks,74.5,15.0,9,16.0,40.0
+ST1065,Pooja Khan,Female,Information Technology,Semester 5,Operating Systems,77.0,12.0,7,16.0,37.0
+ST1066,Siddharth Sharma,Female,Computer Engineering,Semester 5,Mathematics,82.1,16.0,8,14.0,38.0
+ST1066,Siddharth Sharma,Female,Computer Engineering,Semester 5,Python Programming,84.7,13.0,8,14.0,35.0
+ST1066,Siddharth Sharma,Female,Computer Engineering,Semester 5,Database Management,84.9,19.0,10,16.0,42.0
+ST1066,Siddharth Sharma,Female,Computer Engineering,Semester 5,Computer Networks,81.8,14.0,8,14.0,38.0
+ST1066,Siddharth Sharma,Female,Computer Engineering,Semester 5,Operating Systems,83.5,14.0,7,15.0,33.0
+ST1067,Vikram Shah,Male,Computer Engineering,Semester 5,Mathematics,85.4,17.0,8,17.0,46.0
+ST1067,Vikram Shah,Male,Computer Engineering,Semester 5,Python Programming,85.3,18.0,8,18.0,44.0
+ST1067,Vikram Shah,Male,Computer Engineering,Semester 5,Database Management,84.0,15.0,9,18.0,39.0
+ST1067,Vikram Shah,Male,Computer Engineering,Semester 5,Computer Networks,85.9,14.0,8,14.0,35.0
+ST1067,Vikram Shah,Male,Computer Engineering,Semester 5,Operating Systems,83.1,17.0,7,15.0,41.0
+ST1068,Kavya Malhotra,Male,Information Technology,Semester 5,Mathematics,91.2,9.0,4,11.0,23.0
+ST1068,Kavya Malhotra,Male,Information Technology,Semester 5,Python Programming,91.1,11.0,7,14.0,35.0
+ST1068,Kavya Malhotra,Male,Information Technology,Semester 5,Database Management,99.9,14.0,6,12.0,29.0
+ST1068,Kavya Malhotra,Male,Information Technology,Semester 5,Computer Networks,89.0,12.0,5,13.0,29.0
+ST1068,Kavya Malhotra,Male,Information Technology,Semester 5,Operating Systems,87.3,14.0,6,13.0,28.0
+ST1069,Arjun Sharma,Female,Information Technology,Semester 5,Mathematics,60.6,7.0,3,6.0,13.0
+ST1069,Arjun Sharma,Female,Information Technology,Semester 5,Python Programming,61.9,6.0,3,6.0,13.0
+ST1069,Arjun Sharma,Female,Information Technology,Semester 5,Database Management,59.3,5.0,4,6.0,15.0
+ST1069,Arjun Sharma,Female,Information Technology,Semester 5,Computer Networks,57.6,6.0,3,7.0,12.0
+ST1069,Arjun Sharma,Female,Information Technology,Semester 5,Operating Systems,58.1,5.0,3,6.0,14.0
+ST1070,Ananya Desai,Female,Computer Engineering,Semester 5,Mathematics,73.7,13.0,7,11.0,36.0
+ST1070,Ananya Desai,Female,Computer Engineering,Semester 5,Python Programming,70.1,18.0,9,18.0,39.0
+ST1070,Ananya Desai,Female,Computer Engineering,Semester 5,Database Management,78.6,16.0,9,15.0,38.0
+ST1070,Ananya Desai,Female,Computer Engineering,Semester 5,Computer Networks,72.7,13.0,8,14.0,37.0
+ST1070,Ananya Desai,Female,Computer Engineering,Semester 5,Operating Systems,72.8,14.0,5,14.0,30.0
+ST1071,Akash Chauhan,Female,Computer Engineering,Semester 5,Mathematics,87.3,14.0,8,13.0,37.0
+ST1071,Akash Chauhan,Female,Computer Engineering,Semester 5,Python Programming,82.8,17.0,8,15.0,32.0
+ST1071,Akash Chauhan,Female,Computer Engineering,Semester 5,Database Management,79.9,14.0,6,17.0,40.0
+ST1071,Akash Chauhan,Female,Computer Engineering,Semester 5,Computer Networks,83.8,14.0,6,14.0,36.0
+ST1071,Akash Chauhan,Female,Computer Engineering,Semester 5,Operating Systems,79.2,14.0,6,13.0,35.0
+ST1072,Ananya Pandya,Male,Computer Engineering,Semester 5,Mathematics,92.5,13.0,8,13.0,39.0
+ST1072,Ananya Pandya,Male,Computer Engineering,Semester 5,Python Programming,86.6,17.0,7,13.0,36.0
+ST1072,Ananya Pandya,Male,Computer Engineering,Semester 5,Database Management,90.4,10.0,6,14.0,38.0
+ST1072,Ananya Pandya,Male,Computer Engineering,Semester 5,Computer Networks,86.6,15.0,6,14.0,36.0
+ST1072,Ananya Pandya,Male,Computer Engineering,Semester 5,Operating Systems,88.9,14.0,5,13.0,37.0
+ST1073,Ananya Pandya,Female,Computer Engineering,Semester 5,Mathematics,67.5,6.0,3,6.0,12.0
+ST1073,Ananya Pandya,Female,Computer Engineering,Semester 5,Python Programming,69.5,8.0,3,8.0,21.0
+ST1073,Ananya Pandya,Female,Computer Engineering,Semester 5,Database Management,64.9,7.0,4,9.0,15.0
+ST1073,Ananya Pandya,Female,Computer Engineering,Semester 5,Computer Networks,68.2,5.0,4,6.0,14.0
+ST1073,Ananya Pandya,Female,Computer Engineering,Semester 5,Operating Systems,70.5,5.0,3,6.0,14.0
+ST1074,Kunal Desai,Male,Data Science,Semester 5,Mathematics,96.7,18.0,10,17.0,44.0
+ST1074,Kunal Desai,Male,Data Science,Semester 5,Python Programming,99.7,20.0,10,20.0,46.0
+ST1074,Kunal Desai,Male,Data Science,Semester 5,Database Management,100.0,20.0,10,19.0,50.0
+ST1074,Kunal Desai,Male,Data Science,Semester 5,Computer Networks,98.4,16.0,9,18.0,44.0
+ST1074,Kunal Desai,Male,Data Science,Semester 5,Operating Systems,100.0,18.0,8,19.0,45.0
+ST1075,Priya Bhatt,Female,Computer Engineering,Semester 5,Mathematics,75.7,11.0,6,11.0,24.0
+ST1075,Priya Bhatt,Female,Computer Engineering,Semester 5,Python Programming,76.1,12.0,7,13.0,26.0
+ST1075,Priya Bhatt,Female,Computer Engineering,Semester 5,Database Management,75.6,11.0,6,8.0,23.0
+ST1075,Priya Bhatt,Female,Computer Engineering,Semester 5,Computer Networks,74.0,9.0,6,11.0,27.0
+ST1075,Priya Bhatt,Female,Computer Engineering,Semester 5,Operating Systems,72.8,14.0,6,11.0,32.0
+ST1076,Anushka Malhotra,Female,Information Technology,Semester 5,Mathematics,88.0,16.0,6,16.0,37.0
+ST1076,Anushka Malhotra,Female,Information Technology,Semester 5,Python Programming,87.9,16.0,7,18.0,41.0
+ST1076,Anushka Malhotra,Female,Information Technology,Semester 5,Database Management,90.0,16.0,9,16.0,45.0
+ST1076,Anushka Malhotra,Female,Information Technology,Semester 5,Computer Networks,83.6,15.0,8,16.0,36.0
+ST1076,Anushka Malhotra,Female,Information Technology,Semester 5,Operating Systems,87.1,15.0,8,15.0,30.0
+ST1077,Arjun Verma,Female,Data Science,Semester 5,Mathematics,85.6,11.0,6,14.0,37.0
+ST1077,Arjun Verma,Female,Data Science,Semester 5,Python Programming,87.3,16.0,7,14.0,35.0
+ST1077,Arjun Verma,Female,Data Science,Semester 5,Database Management,82.1,15.0,7,14.0,34.0
+ST1077,Arjun Verma,Female,Data Science,Semester 5,Computer Networks,88.0,15.0,6,13.0,30.0
+ST1077,Arjun Verma,Female,Data Science,Semester 5,Operating Systems,85.2,16.0,9,16.0,36.0
+ST1078,Diya Khan,Male,Information Technology,Semester 5,Mathematics,72.4,7.0,3,7.0,17.0
+ST1078,Diya Khan,Male,Information Technology,Semester 5,Python Programming,77.8,9.0,6,7.0,15.0
+ST1078,Diya Khan,Male,Information Technology,Semester 5,Database Management,68.5,6.0,4,8.0,20.0
+ST1078,Diya Khan,Male,Information Technology,Semester 5,Computer Networks,74.3,9.0,3,6.0,16.0
+ST1078,Diya Khan,Male,Information Technology,Semester 5,Operating Systems,75.3,9.0,5,7.0,25.0
+ST1079,Manish Patel,Male,Data Science,Semester 5,Mathematics,89.2,17.0,6,15.0,36.0
+ST1079,Manish Patel,Male,Data Science,Semester 5,Python Programming,87.2,16.0,9,16.0,39.0
+ST1079,Manish Patel,Male,Data Science,Semester 5,Database Management,82.9,16.0,8,15.0,36.0
+ST1079,Manish Patel,Male,Data Science,Semester 5,Computer Networks,80.3,16.0,6,14.0,38.0
+ST1079,Manish Patel,Male,Data Science,Semester 5,Operating Systems,82.3,17.0,8,19.0,34.0
+ST1080,Ananya Shah,Male,Information Technology,Semester 5,Mathematics,80.0,10.0,5,8.0,24.0
+ST1080,Ananya Shah,Male,Information Technology,Semester 5,Python Programming,72.8,11.0,6,12.0,29.0
+ST1080,Ananya Shah,Male,Information Technology,Semester 5,Database Management,77.8,9.0,6,11.0,23.0
+ST1080,Ananya Shah,Male,Information Technology,Semester 5,Computer Networks,77.5,11.0,5,12.0,20.0
+ST1080,Ananya Shah,Male,Information Technology,Semester 5,Operating Systems,76.5,11.0,5,9.0,28.0
+ST1081,Bhavya Shah,Female,Information Technology,Semester 5,Mathematics,88.3,17.0,9,16.0,40.0
+ST1081,Bhavya Shah,Female,Information Technology,Semester 5,Python Programming,87.9,17.0,7,18.0,38.0
+ST1081,Bhavya Shah,Female,Information Technology,Semester 5,Database Management,90.3,17.0,8,17.0,48.0
+ST1081,Bhavya Shah,Female,Information Technology,Semester 5,Computer Networks,80.3,18.0,8,17.0,50.0
+ST1081,Bhavya Shah,Female,Information Technology,Semester 5,Operating Systems,84.1,18.0,8,15.0,41.0
+ST1082,Rohan Dave,Male,Data Science,Semester 5,Mathematics,88.2,18.0,9,17.0,47.0
+ST1082,Rohan Dave,Male,Data Science,Semester 5,Python Programming,90.8,17.0,10,15.0,40.0
+ST1082,Rohan Dave,Male,Data Science,Semester 5,Database Management,91.8,16.0,9,20.0,43.0
+ST1082,Rohan Dave,Male,Data Science,Semester 5,Computer Networks,88.5,15.0,8,16.0,38.0
+ST1082,Rohan Dave,Male,Data Science,Semester 5,Operating Systems,89.3,17.0,9,14.0,44.0
+ST1083,Priya Vyas,Female,Information Technology,Semester 5,Mathematics,84.1,14.0,7,16.0,41.0
+ST1083,Priya Vyas,Female,Information Technology,Semester 5,Python Programming,87.2,16.0,8,18.0,39.0
+ST1083,Priya Vyas,Female,Information Technology,Semester 5,Database Management,86.8,17.0,8,15.0,37.0
+ST1083,Priya Vyas,Female,Information Technology,Semester 5,Computer Networks,81.8,16.0,7,15.0,39.0
+ST1083,Priya Vyas,Female,Information Technology,Semester 5,Operating Systems,77.4,14.0,7,14.0,34.0
+ST1084,Kunal Shah,Male,Information Technology,Semester 5,Mathematics,75.1,8.0,3,6.0,16.0
+ST1084,Kunal Shah,Male,Information Technology,Semester 5,Python Programming,78.8,7.0,5,10.0,15.0
+ST1084,Kunal Shah,Male,Information Technology,Semester 5,Database Management,75.9,6.0,4,6.0,25.0
+ST1084,Kunal Shah,Male,Information Technology,Semester 5,Computer Networks,81.5,9.0,5,7.0,16.0
+ST1084,Kunal Shah,Male,Information Technology,Semester 5,Operating Systems,78.7,8.0,3,7.0,20.0
+ST1085,Sanya Verma,Female,Data Science,Semester 5,Mathematics,85.0,16.0,9,19.0,50.0
+ST1085,Sanya Verma,Female,Data Science,Semester 5,Python Programming,84.2,18.0,9,18.0,46.0
+ST1085,Sanya Verma,Female,Data Science,Semester 5,Database Management,78.9,17.0,8,20.0,41.0
+ST1085,Sanya Verma,Female,Data Science,Semester 5,Computer Networks,84.2,17.0,9,18.0,48.0
+ST1085,Sanya Verma,Female,Data Science,Semester 5,Operating Systems,85.7,15.0,7,16.0,41.0
+ST1086,Simran Patel,Female,Information Technology,Semester 5,Mathematics,61.4,6.0,3,7.0,14.0
+ST1086,Simran Patel,Female,Information Technology,Semester 5,Python Programming,63.2,7.0,3,6.0,21.0
+ST1086,Simran Patel,Female,Information Technology,Semester 5,Database Management,62.6,5.0,3,6.0,14.0
+ST1086,Simran Patel,Female,Information Technology,Semester 5,Computer Networks,58.9,7.0,3,6.0,12.0
+ST1086,Simran Patel,Female,Information Technology,Semester 5,Operating Systems,58.4,5.0,3,6.0,12.0
+ST1087,Kavya Gupta,Female,Information Technology,Semester 5,Mathematics,75.2,8.0,4,6.0,14.0
+ST1087,Kavya Gupta,Female,Information Technology,Semester 5,Python Programming,73.7,13.0,6,12.0,27.0
+ST1087,Kavya Gupta,Female,Information Technology,Semester 5,Database Management,73.3,9.0,4,8.0,21.0
+ST1087,Kavya Gupta,Female,Information Technology,Semester 5,Computer Networks,76.4,8.0,4,7.0,25.0
+ST1087,Kavya Gupta,Female,Information Technology,Semester 5,Operating Systems,71.3,11.0,5,7.0,23.0
+ST1088,Siddharth Joshi,Male,Computer Engineering,Semester 5,Mathematics,89.2,15.0,9,17.0,37.0
+ST1088,Siddharth Joshi,Male,Computer Engineering,Semester 5,Python Programming,85.4,17.0,9,17.0,46.0
+ST1088,Siddharth Joshi,Male,Computer Engineering,Semester 5,Database Management,94.2,19.0,9,18.0,50.0
+ST1088,Siddharth Joshi,Male,Computer Engineering,Semester 5,Computer Networks,87.8,17.0,8,16.0,44.0
+ST1088,Siddharth Joshi,Male,Computer Engineering,Semester 5,Operating Systems,89.2,17.0,10,17.0,50.0
+ST1089,Pooja Panchal,Male,Information Technology,Semester 5,Mathematics,81.1,15.0,7,15.0,41.0
+ST1089,Pooja Panchal,Male,Information Technology,Semester 5,Python Programming,80.0,13.0,7,18.0,39.0
+ST1089,Pooja Panchal,Male,Information Technology,Semester 5,Database Management,82.6,18.0,6,14.0,43.0
+ST1089,Pooja Panchal,Male,Information Technology,Semester 5,Computer Networks,90.1,14.0,9,17.0,40.0
+ST1089,Pooja Panchal,Male,Information Technology,Semester 5,Operating Systems,83.5,15.0,8,17.0,41.0
+ST1090,Nikhil Bhatt,Male,Information Technology,Semester 5,Mathematics,75.8,10.0,5,11.0,20.0
+ST1090,Nikhil Bhatt,Male,Information Technology,Semester 5,Python Programming,78.4,7.0,5,12.0,18.0
+ST1090,Nikhil Bhatt,Male,Information Technology,Semester 5,Database Management,78.4,10.0,5,8.0,25.0
+ST1090,Nikhil Bhatt,Male,Information Technology,Semester 5,Computer Networks,76.6,9.0,4,7.0,19.0
+ST1090,Nikhil Bhatt,Male,Information Technology,Semester 5,Operating Systems,81.2,11.0,5,11.0,25.0
+ST1091,Riya Kapoor,Male,Information Technology,Semester 5,Mathematics,98.5,17.0,8,16.0,39.0
+ST1091,Riya Kapoor,Male,Information Technology,Semester 5,Python Programming,95.3,20.0,10,18.0,49.0
+ST1091,Riya Kapoor,Male,Information Technology,Semester 5,Database Management,94.8,17.0,10,17.0,48.0
+ST1091,Riya Kapoor,Male,Information Technology,Semester 5,Computer Networks,99.5,18.0,10,20.0,46.0
+ST1091,Riya Kapoor,Male,Information Technology,Semester 5,Operating Systems,100.0,18.0,9,18.0,50.0
+ST1092,Aisha Patel,Male,Computer Engineering,Semester 5,Mathematics,79.0,8.0,4,10.0,18.0
+ST1092,Aisha Patel,Male,Computer Engineering,Semester 5,Python Programming,78.0,10.0,5,10.0,26.0
+ST1092,Aisha Patel,Male,Computer Engineering,Semester 5,Database Management,80.8,8.0,5,10.0,17.0
+ST1092,Aisha Patel,Male,Computer Engineering,Semester 5,Computer Networks,79.9,7.0,5,6.0,16.0
+ST1092,Aisha Patel,Male,Computer Engineering,Semester 5,Operating Systems,80.9,7.0,4,7.0,19.0
+ST1093,Aarav Chauhan,Male,Information Technology,Semester 5,Mathematics,58.5,5.0,3,6.0,12.0
+ST1093,Aarav Chauhan,Male,Information Technology,Semester 5,Python Programming,57.7,5.0,3,6.0,12.0
+ST1093,Aarav Chauhan,Male,Information Technology,Semester 5,Database Management,53.8,5.0,3,6.0,14.0
+ST1093,Aarav Chauhan,Male,Information Technology,Semester 5,Computer Networks,58.0,5.0,3,6.0,13.0
+ST1093,Aarav Chauhan,Male,Information Technology,Semester 5,Operating Systems,51.4,8.0,3,6.0,14.0
+ST1094,Varun Iyer,Female,Data Science,Semester 5,Mathematics,74.3,12.0,7,14.0,34.0
+ST1094,Varun Iyer,Female,Data Science,Semester 5,Python Programming,74.3,16.0,7,16.0,37.0
+ST1094,Varun Iyer,Female,Data Science,Semester 5,Database Management,73.7,14.0,8,14.0,31.0
+ST1094,Varun Iyer,Female,Data Science,Semester 5,Computer Networks,72.5,15.0,7,12.0,41.0
+ST1094,Varun Iyer,Female,Data Science,Semester 5,Operating Systems,74.2,14.0,8,15.0,40.0
+ST1095,Vikram Joshi,Female,Information Technology,Semester 5,Mathematics,77.6,7.0,3,8.0,22.0
+ST1095,Vikram Joshi,Female,Information Technology,Semester 5,Python Programming,74.4,11.0,4,8.0,22.0
+ST1095,Vikram Joshi,Female,Information Technology,Semester 5,Database Management,75.8,9.0,4,7.0,14.0
+ST1095,Vikram Joshi,Female,Information Technology,Semester 5,Computer Networks,71.7,5.0,5,7.0,28.0
+ST1095,Vikram Joshi,Female,Information Technology,Semester 5,Operating Systems,80.8,8.0,5,10.0,14.0
+ST1096,Rohan Panchal,Male,Data Science,Semester 5,Mathematics,73.9,13.0,6,13.0,26.0
+ST1096,Rohan Panchal,Male,Data Science,Semester 5,Python Programming,72.6,13.0,6,15.0,39.0
+ST1096,Rohan Panchal,Male,Data Science,Semester 5,Database Management,78.1,13.0,6,12.0,31.0
+ST1096,Rohan Panchal,Male,Data Science,Semester 5,Computer Networks,79.7,14.0,6,13.0,27.0
+ST1096,Rohan Panchal,Male,Data Science,Semester 5,Operating Systems,78.8,13.0,7,15.0,40.0
+ST1097,Disha Panchal,Female,Data Science,Semester 5,Mathematics,84.2,12.0,7,17.0,36.0
+ST1097,Disha Panchal,Female,Data Science,Semester 5,Python Programming,85.2,16.0,8,17.0,41.0
+ST1097,Disha Panchal,Female,Data Science,Semester 5,Database Management,85.3,16.0,8,14.0,40.0
+ST1097,Disha Panchal,Female,Data Science,Semester 5,Computer Networks,84.1,14.0,6,15.0,31.0
+ST1097,Disha Panchal,Female,Data Science,Semester 5,Operating Systems,82.2,14.0,7,13.0,31.0
+ST1098,Nikhil Malhotra,Male,Information Technology,Semester 5,Mathematics,72.0,11.0,6,11.0,30.0
+ST1098,Nikhil Malhotra,Male,Information Technology,Semester 5,Python Programming,78.2,13.0,7,13.0,34.0
+ST1098,Nikhil Malhotra,Male,Information Technology,Semester 5,Database Management,74.1,13.0,5,11.0,27.0
+ST1098,Nikhil Malhotra,Male,Information Technology,Semester 5,Computer Networks,70.9,11.0,5,12.0,28.0
+ST1098,Nikhil Malhotra,Male,Information Technology,Semester 5,Operating Systems,70.0,14.0,6,13.0,29.0
+ST1099,Harsh Bhatt,Female,Information Technology,Semester 5,Mathematics,82.8,10.0,6,12.0,29.0
+ST1099,Harsh Bhatt,Female,Information Technology,Semester 5,Python Programming,79.6,14.0,7,14.0,33.0
+ST1099,Harsh Bhatt,Female,Information Technology,Semester 5,Database Management,85.5,14.0,8,14.0,32.0
+ST1099,Harsh Bhatt,Female,Information Technology,Semester 5,Computer Networks,81.3,13.0,6,14.0,40.0
+ST1099,Harsh Bhatt,Female,Information Technology,Semester 5,Operating Systems,83.5,13.0,6,12.0,36.0
+ST1100,Pranav Malhotra,Male,Information Technology,Semester 5,Mathematics,79.0,13.0,7,12.0,30.0
+ST1100,Pranav Malhotra,Male,Information Technology,Semester 5,Python Programming,78.8,12.0,7,10.0,28.0
+ST1100,Pranav Malhotra,Male,Information Technology,Semester 5,Database Management,82.0,12.0,5,11.0,26.0
+ST1100,Pranav Malhotra,Male,Information Technology,Semester 5,Computer Networks,80.4,11.0,5,11.0,30.0
+ST1100,Pranav Malhotra,Male,Information Technology,Semester 5,Operating Systems,86.5,13.0,5,12.0,27.0
+ST1101,Pranav Choudhury,Female,Information Technology,Semester 5,Mathematics,82.3,13.0,7,12.0,24.0
+ST1101,Pranav Choudhury,Female,Information Technology,Semester 5,Python Programming,85.5,14.0,5,13.0,35.0
+ST1101,Pranav Choudhury,Female,Information Technology,Semester 5,Database Management,87.3,11.0,6,13.0,31.0
+ST1101,Pranav Choudhury,Female,Information Technology,Semester 5,Computer Networks,87.5,10.0,6,13.0,35.0
+ST1101,Pranav Choudhury,Female,Information Technology,Semester 5,Operating Systems,87.8,14.0,6,13.0,39.0
+ST1102,Priya Pandya,Female,Computer Engineering,Semester 5,Mathematics,75.8,8.0,5,7.0,24.0
+ST1102,Priya Pandya,Female,Computer Engineering,Semester 5,Python Programming,76.4,8.0,5,7.0,15.0
+ST1102,Priya Pandya,Female,Computer Engineering,Semester 5,Database Management,78.0,9.0,5,8.0,27.0
+ST1102,Priya Pandya,Female,Computer Engineering,Semester 5,Computer Networks,78.8,6.0,4,8.0,23.0
+ST1102,Priya Pandya,Female,Computer Engineering,Semester 5,Operating Systems,79.4,8.0,4,9.0,21.0
+ST1103,Rachit Verma,Female,Information Technology,Semester 5,Mathematics,80.4,11.0,6,9.0,26.0
+ST1103,Rachit Verma,Female,Information Technology,Semester 5,Python Programming,76.6,14.0,6,9.0,29.0
+ST1103,Rachit Verma,Female,Information Technology,Semester 5,Database Management,80.8,13.0,6,11.0,32.0
+ST1103,Rachit Verma,Female,Information Technology,Semester 5,Computer Networks,76.4,14.0,6,12.0,32.0
+ST1103,Rachit Verma,Female,Information Technology,Semester 5,Operating Systems,77.9,13.0,6,15.0,31.0
+ST1104,Gaurav Iyer,Male,Information Technology,Semester 5,Mathematics,86.2,15.0,8,12.0,43.0
+ST1104,Gaurav Iyer,Male,Information Technology,Semester 5,Python Programming,87.5,15.0,8,16.0,42.0
+ST1104,Gaurav Iyer,Male,Information Technology,Semester 5,Database Management,84.8,18.0,9,15.0,45.0
+ST1104,Gaurav Iyer,Male,Information Technology,Semester 5,Computer Networks,88.4,17.0,9,16.0,48.0
+ST1104,Gaurav Iyer,Male,Information Technology,Semester 5,Operating Systems,82.9,16.0,7,17.0,38.0
+ST1105,Kabir Verma,Female,Information Technology,Semester 5,Mathematics,90.8,16.0,6,16.0,45.0
+ST1105,Kabir Verma,Female,Information Technology,Semester 5,Python Programming,89.8,18.0,9,19.0,42.0
+ST1105,Kabir Verma,Female,Information Technology,Semester 5,Database Management,90.4,16.0,8,17.0,42.0
+ST1105,Kabir Verma,Female,Information Technology,Semester 5,Computer Networks,85.4,18.0,9,17.0,42.0
+ST1105,Kabir Verma,Female,Information Technology,Semester 5,Operating Systems,90.6,18.0,10,16.0,40.0
+ST1106,Sanya Choudhury,Female,Computer Engineering,Semester 5,Mathematics,62.2,5.0,3,6.0,17.0
+ST1106,Sanya Choudhury,Female,Computer Engineering,Semester 5,Python Programming,62.2,5.0,3,6.0,14.0
+ST1106,Sanya Choudhury,Female,Computer Engineering,Semester 5,Database Management,62.6,6.0,3,6.0,16.0
+ST1106,Sanya Choudhury,Female,Computer Engineering,Semester 5,Computer Networks,62.1,5.0,3,6.0,15.0
+ST1106,Sanya Choudhury,Female,Computer Engineering,Semester 5,Operating Systems,67.2,6.0,3,6.0,15.0
+ST1107,Ishaan Chauhan,Female,Information Technology,Semester 5,Mathematics,83.7,10.0,6,10.0,26.0
+ST1107,Ishaan Chauhan,Female,Information Technology,Semester 5,Python Programming,82.6,13.0,5,13.0,28.0
+ST1107,Ishaan Chauhan,Female,Information Technology,Semester 5,Database Management,81.6,12.0,5,13.0,30.0
+ST1107,Ishaan Chauhan,Female,Information Technology,Semester 5,Computer Networks,81.4,9.0,4,10.0,23.0
+ST1107,Ishaan Chauhan,Female,Information Technology,Semester 5,Operating Systems,78.2,10.0,6,10.0,31.0
+ST1108,Vikram Choudhury,Male,Data Science,Semester 5,Mathematics,72.6,14.0,8,14.0,39.0
+ST1108,Vikram Choudhury,Male,Data Science,Semester 5,Python Programming,76.4,15.0,7,14.0,38.0
+ST1108,Vikram Choudhury,Male,Data Science,Semester 5,Database Management,74.8,14.0,7,15.0,32.0
+ST1108,Vikram Choudhury,Male,Data Science,Semester 5,Computer Networks,75.5,16.0,7,15.0,36.0
+ST1108,Vikram Choudhury,Male,Data Science,Semester 5,Operating Systems,80.8,14.0,8,13.0,40.0
+ST1109,Sneha Kapoor,Male,Data Science,Semester 5,Mathematics,79.1,16.0,8,14.0,39.0
+ST1109,Sneha Kapoor,Male,Data Science,Semester 5,Python Programming,80.3,16.0,9,16.0,41.0
+ST1109,Sneha Kapoor,Male,Data Science,Semester 5,Database Management,80.2,17.0,7,17.0,38.0
+ST1109,Sneha Kapoor,Male,Data Science,Semester 5,Computer Networks,82.9,18.0,8,16.0,41.0
+ST1109,Sneha Kapoor,Male,Data Science,Semester 5,Operating Systems,83.7,17.0,9,19.0,43.0
+ST1110,Rachit Malhotra,Female,Computer Engineering,Semester 5,Mathematics,55.3,5.0,3,6.0,12.0
+ST1110,Rachit Malhotra,Female,Computer Engineering,Semester 5,Python Programming,55.1,6.0,3,6.0,15.0
+ST1110,Rachit Malhotra,Female,Computer Engineering,Semester 5,Database Management,54.0,5.0,3,6.0,13.0
+ST1110,Rachit Malhotra,Female,Computer Engineering,Semester 5,Computer Networks,55.7,5.0,3,6.0,12.0
+ST1110,Rachit Malhotra,Female,Computer Engineering,Semester 5,Operating Systems,53.9,5.0,3,6.0,12.0
+ST1111,Rachit Iyer,Female,Information Technology,Semester 5,Mathematics,81.2,10.0,5,10.0,29.0
+ST1111,Rachit Iyer,Female,Information Technology,Semester 5,Python Programming,82.7,11.0,5,10.0,26.0
+ST1111,Rachit Iyer,Female,Information Technology,Semester 5,Database Management,84.5,12.0,6,12.0,32.0
+ST1111,Rachit Iyer,Female,Information Technology,Semester 5,Computer Networks,84.3,8.0,4,11.0,31.0
+ST1111,Rachit Iyer,Female,Information Technology,Semester 5,Operating Systems,79.7,9.0,4,7.0,17.0
+ST1112,Priya Kulkarni,Male,Data Science,Semester 5,Mathematics,83.0,14.0,8,11.0,35.0
+ST1112,Priya Kulkarni,Male,Data Science,Semester 5,Python Programming,82.6,15.0,9,14.0,40.0
+ST1112,Priya Kulkarni,Male,Data Science,Semester 5,Database Management,86.8,17.0,9,15.0,36.0
+ST1112,Priya Kulkarni,Male,Data Science,Semester 5,Computer Networks,87.5,17.0,7,16.0,44.0
+ST1112,Priya Kulkarni,Male,Data Science,Semester 5,Operating Systems,86.4,16.0,7,18.0,38.0
+ST1113,Ishaan Chauhan,Male,Computer Engineering,Semester 5,Mathematics,68.9,8.0,6,9.0,27.0
+ST1113,Ishaan Chauhan,Male,Computer Engineering,Semester 5,Python Programming,67.4,11.0,5,11.0,26.0
+ST1113,Ishaan Chauhan,Male,Computer Engineering,Semester 5,Database Management,63.7,14.0,6,11.0,32.0
+ST1113,Ishaan Chauhan,Male,Computer Engineering,Semester 5,Computer Networks,68.1,10.0,6,12.0,26.0
+ST1113,Ishaan Chauhan,Male,Computer Engineering,Semester 5,Operating Systems,71.2,10.0,6,11.0,31.0
+ST1114,Aarav Bhatt,Male,Computer Engineering,Semester 5,Mathematics,82.0,14.0,7,11.0,30.0
+ST1114,Aarav Bhatt,Male,Computer Engineering,Semester 5,Python Programming,85.0,14.0,6,14.0,31.0
+ST1114,Aarav Bhatt,Male,Computer Engineering,Semester 5,Database Management,82.4,13.0,7,14.0,41.0
+ST1114,Aarav Bhatt,Male,Computer Engineering,Semester 5,Computer Networks,78.9,16.0,7,15.0,36.0
+ST1114,Aarav Bhatt,Male,Computer Engineering,Semester 5,Operating Systems,83.2,16.0,8,15.0,34.0
+ST1115,Siddharth Khan,Male,Data Science,Semester 5,Mathematics,79.5,13.0,7,15.0,34.0
+ST1115,Siddharth Khan,Male,Data Science,Semester 5,Python Programming,78.0,13.0,7,16.0,33.0
+ST1115,Siddharth Khan,Male,Data Science,Semester 5,Database Management,76.0,15.0,7,14.0,36.0
+ST1115,Siddharth Khan,Male,Data Science,Semester 5,Computer Networks,75.6,15.0,7,16.0,34.0
+ST1115,Siddharth Khan,Male,Data Science,Semester 5,Operating Systems,82.8,15.0,7,15.0,41.0
+ST1116,Siddharth Gupta,Female,Data Science,Semester 5,Mathematics,82.0,13.0,6,13.0,36.0
+ST1116,Siddharth Gupta,Female,Data Science,Semester 5,Python Programming,83.7,13.0,8,15.0,38.0
+ST1116,Siddharth Gupta,Female,Data Science,Semester 5,Database Management,83.1,13.0,5,12.0,34.0
+ST1116,Siddharth Gupta,Female,Data Science,Semester 5,Computer Networks,85.2,16.0,7,15.0,38.0
+ST1116,Siddharth Gupta,Female,Data Science,Semester 5,Operating Systems,80.7,12.0,5,13.0,31.0
+ST1117,Tanvi Gupta,Male,Computer Engineering,Semester 5,Mathematics,85.9,15.0,7,14.0,38.0
+ST1117,Tanvi Gupta,Male,Computer Engineering,Semester 5,Python Programming,91.8,15.0,8,18.0,38.0
+ST1117,Tanvi Gupta,Male,Computer Engineering,Semester 5,Database Management,95.3,15.0,7,15.0,33.0
+ST1117,Tanvi Gupta,Male,Computer Engineering,Semester 5,Computer Networks,88.7,14.0,8,15.0,28.0
+ST1117,Tanvi Gupta,Male,Computer Engineering,Semester 5,Operating Systems,95.2,15.0,8,16.0,37.0
+ST1118,Simran Malhotra,Male,Information Technology,Semester 5,Mathematics,84.1,7.0,3,6.0,20.0
+ST1118,Simran Malhotra,Male,Information Technology,Semester 5,Python Programming,85.1,11.0,5,9.0,28.0
+ST1118,Simran Malhotra,Male,Information Technology,Semester 5,Database Management,80.2,7.0,5,10.0,22.0
+ST1118,Simran Malhotra,Male,Information Technology,Semester 5,Computer Networks,86.3,9.0,4,9.0,20.0
+ST1118,Simran Malhotra,Male,Information Technology,Semester 5,Operating Systems,82.6,10.0,4,9.0,20.0
+ST1119,Kavya Nair,Female,Data Science,Semester 5,Mathematics,78.9,17.0,8,14.0,40.0
+ST1119,Kavya Nair,Female,Data Science,Semester 5,Python Programming,79.6,17.0,10,20.0,44.0
+ST1119,Kavya Nair,Female,Data Science,Semester 5,Database Management,82.3,17.0,9,17.0,39.0
+ST1119,Kavya Nair,Female,Data Science,Semester 5,Computer Networks,79.5,16.0,8,18.0,46.0
+ST1119,Kavya Nair,Female,Data Science,Semester 5,Operating Systems,84.4,18.0,7,17.0,44.0
+ST1120,Aarav Sharma,Female,Data Science,Semester 5,Mathematics,69.1,6.0,3,7.0,19.0
+ST1120,Aarav Sharma,Female,Data Science,Semester 5,Python Programming,71.1,9.0,6,10.0,28.0
+ST1120,Aarav Sharma,Female,Data Science,Semester 5,Database Management,68.1,7.0,3,9.0,25.0
+ST1120,Aarav Sharma,Female,Data Science,Semester 5,Computer Networks,72.0,11.0,5,9.0,28.0
+ST1120,Aarav Sharma,Female,Data Science,Semester 5,Operating Systems,68.4,10.0,5,11.0,28.0
+ST1003,Neha Pandya,Male,Computer Engineering,Semester 5,Mathematics,58.7,5.0,3,6.0,13.0
+ST1006,Aisha Pandya,Male,Data Science,Semester 5,Mathematics,88.5,16.0,8,16.0,41.0
+ST1009,Pooja Verma,Female,Data Science,Semester 5,Mathematics,78.9,15.0,9,15.0,37.0
+ST1015,Sanya Patel,Male,Computer Engineering,Semester 5,Mathematics,74.4,13.0,7,13.0,33.0
